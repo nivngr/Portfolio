@@ -8,9 +8,9 @@ export default function Header() {
             <h2 className='header-title'>Niv Nagar</h2>
             <img src={nivImage} className="image" alt="Vite logo" />
             <div className="header-right-section">
-                <a href="#" class="fa fa-github"></a>
-                <a href="#" class="fa fa-linkedin"></a>
-                <a href="#" class="fa fa-facebook"></a>
+                <a href="https://github.com/nivngr" class="fa fa-github"></a>
+                <a href="https://www.linkedin.com/in/niv-nagar-8605a6190/" class="fa fa-linkedin"></a>
+                <a href="https://www.facebook.com/niv.nagar" class="fa fa-facebook"></a>
                 <a href="#" class="fa fa-twitter"></a>
             </div>
         </header>
